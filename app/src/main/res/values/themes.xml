@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VoiceSwitch" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#4ecca3</item>
+        <item name="colorPrimaryVariant">#1a1a2e</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorSecondary">#e94560</item>
+        <item name="android:statusBarColor">#0f0f1a</item>
+        <item name="android:navigationBarColor">#0f0f1a</item>
+    </style>
+</resources>
